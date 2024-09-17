@@ -3,3 +3,60 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+nav a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: grey;
+}
+
+#featured-property figcaption {
+  text-align: center;
+  font-size: medium;
+}
+
+#featured-property p {
+  text-align: center;
+  padding-left: 305px;
+  padding-right: 280px;
+}
+
+
+#details {
+  display: flex;
+  justify-content: space-around;
+  background-color: red;
+}
+
+.one {
+  background-color: red;
+  text-align: center;
+  position: 25%;
+}
+
+.two {
+  background-color: red;
+  text-align: center;
+  position: 25%; 
+}
+
+.three {
+  background-color: red;
+  text-align: center;
+  position: 25%;
+}
+
+.four {
+  background-color: red;
+  text-align: center;
+  position: 25%;
+}
